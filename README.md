@@ -26,4 +26,4 @@ Follow these steps to run the application locally:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/BandiNeeraja/expense-tracker.git
